@@ -15,7 +15,7 @@ export default function Index() {
           color: "green",
         }}
       >
-        Fitness Tracker- started
+        Fitness Tracker- started(testing)
       </Text>
     </View>
   );
